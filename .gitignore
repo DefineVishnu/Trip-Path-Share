@@ -3,3 +3,11 @@
 ################################################################################
 
 /.vs
+/Trip.Path.Share.Api/bin/Debug/net6.0
+/Trip.Path.Share.Api/obj
+/Trip.Path.Share.Common/bin/Debug/net6.0
+/Trip.Path.Share.Common/obj
+/Trip.Path.Share.Data/bin/Debug/net6.0
+/Trip.Path.Share.Data/obj
+/Trip.Path.Share.User.Data/bin/Debug/net6.0
+/Trip.Path.Share.User.Data/obj
